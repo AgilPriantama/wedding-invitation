@@ -6,7 +6,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6324e7f5-1c96-4b61-9e09-95aaf3e3db9d/deploy-status)](https://pawiwahan-dejon-eka.netlify.app/)
 [![Licences ](https://badgen.net/badge/license/MIT/purple)](https://github.com/parta99/parta99.github.io/blob/main/LICENSE)
 [![Defaul Branch ](https://badgen.net/github/checks/node-formidable/node-formidable)](https://github.com/parta99/parta99.github.io)
-[![Twitter ](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/@djna911)
 
 
 # Landing page Undangan nikah
@@ -19,7 +18,7 @@ landing page ini masih dalam tahap pengembangan
  *Ornamen by Rawpixel.com* [![Freepik ](https://flat.badgen.net/badge/freepik/freepik/cyan)](http://www.freepik.com). 
 
 > for view
-site is published at [![Pawiwahan Lannding Page](https://flat.badgen.net/badge/icon/visit?icon=chrome&label)](https://pawiwahan-dejon-eka.netlify.app/) :innocent:
+site is published at [![Undangan Lannding Page](https://flat.badgen.net/badge/icon/visit?icon=chrome&label)](http://bit.ly/Wahyu-Maulita) :innocent:
 
 ```ruby
 Solusi sebar undangan pernikahan mudah dengan undangan digital berbasis website. 
